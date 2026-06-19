@@ -1,74 +1,130 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,29&text=Neo&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Security%20Engineer&descSize=25&descAlignY=65&textBg=false" alt="Neo Banner" width="100%" />
+</div>
+<div align="center">
+  <h3>Backend Developer | DevOps Engineer | Security Engineer</h3>
+  <p>Building scalable backend systems and secure infrastructure. Passionate about DevOps automation and application security.</p>
+</div>
+<div align="center">
   <a href="https://komarev.com/ghpvc/?username=Neokhanyile">
-    <img src="https://komarev.com/ghpvc/?username=Neokhanyile&label=Profile%20views&color=00FFFF&style=flat-square" alt="Neokhanyile's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Neokhanyile&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
   </a>
-</div>
-📊 GitHub Stats & Trophies
-
-<div align="center">
-  <a href="https://github.com/Neokhanyile">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neokhanyile&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Neokhanyile's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Neokhanyile&theme=radical&hide_border=true&cache_seconds=86400" alt="Neokhanyile's GitHub Streak" width="49%" />
-</div>
-<div align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Neokhanyile&theme=radical&radius=10" alt="Neokhanyile's Activity Graph" />
-</div>
-🛠️ Languages & Tools
-
-Programming Languages
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" />
-</div>
-Backend
-
-<div align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" />
-</div>
-Database
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-</div>
-DevOps & Cloud
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />
-</div>
-Tools
-
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-</div>
-Top Languages
-
-<div align="center">
-  <a href="https://github.com/Neokhanyile">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Neokhanyile&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</div>
-🔗 Connect with Me
-
-<div align="center">
-  <a href="mailto:neokhanyilenk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Neo's Email"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px; width: 174px;" />
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Neokhanyile?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Click%20Here-blue?style=flat-square" alt="Repositories" />
   </a>
 </div>
 
+🎯 Focus Areas
+
 <div align="center">
-  <i>Thanks for visiting! Feel free to connect with me and check out my projects.</i>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🚀 Backend Developer & DevOps</h3>
+        <p>Scalable backend systems, microservices, containerization, infrastructure automation, CI/CD pipelines</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>🔒 Security Engineer</h3>
+        <p>Application security, vulnerability assessment, secure coding, penetration testing, attack analysis</p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
+
+## 🛠️ Tech Arsenal
+
+<table width="100%">
+<tr><th width="18%">Domain</th><th>Technologies</th></tr>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>DevOps & Cloud</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Dev Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</td>
+</tr>
+</table>
+---
+ 
+## 🔒 Security & Penetration Testing
+ 
+<table width="100%">
+<tr><th width="30%">Focus Area</th><th>Skills</th></tr>
+<tr>
+<td><b>Web App Security</b></td>
+<td>SQL Injection Analysis • Authentication Bypass • Session Hijacking • XSS / CSRF Identification</td>
+</tr>
+<tr>
+<td><b>Assessment & Recon</b></td>
+<td>Vulnerability Assessment • Network Reconnaissance • Port & Service Enumeration</td>
+</tr>
+<tr>
+<td><b>Exploitation</b></td>
+<td>Data Extraction Techniques • Privilege Escalation • Exploit Development Basics</td>
+</tr>
+<tr>
+<td><b>Tooling</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-OWASP%20ZAP-FF5733?style=flat-square&logo=owasp&logoColor=white" />
+</td>
+</tr>
+</table>
+
+ 
+## 📊 GitHub Stats & Trophies
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NeoKhanyile&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoKhanyile&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" height="165"/>
+</div>
+---
+ 
