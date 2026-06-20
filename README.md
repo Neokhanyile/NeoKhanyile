@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </td>
 </tr>
 <tr>
