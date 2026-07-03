@@ -115,11 +115,5 @@
 </table>
 
  
-## 📊 GitHub Stats & Trophies
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NeoKhanyile&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoKhanyile&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" height="165"/>
-</div>
 
  
