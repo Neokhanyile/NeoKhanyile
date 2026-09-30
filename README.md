@@ -15,17 +15,17 @@
   </a>
 </div>
 
-🎯 Focus Areas
+ <h2>Focus Areas</h2>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>🚀 Backend Developer & DevOps</h3>
+        <h3> Backend Developer & DevOps</h3>
         <p>Scalable backend systems, microservices, containerization, infrastructure automation, CI/CD pipelines</p>
       </td>
       <td width="50%" align="center">
-        <h3>🔒 Security Engineer</h3>
+        <h3> Security Engineer</h3>
         <p>Application security, vulnerability assessment, secure coding, penetration testing, attack analysis</p>
       </td>
     </tr>
@@ -35,7 +35,7 @@
 
 
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <table width="100%">
 <tr><th width="18%">Domain</th><th>Technologies</th></tr>
@@ -86,7 +86,7 @@
 </table>
 
  
-## 🔒 Security & Penetration Testing
+##  Security & Penetration Testing
  
 <table width="100%">
 <tr><th width="30%">Focus Area</th><th>Skills</th></tr>
